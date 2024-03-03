@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Internet",
+    "type": "internet"
+  },
+  {
+    "name": "How does the Internet Work?",
+    "type": "internet"
+  },
+  {
+    "name": "What is HTTP?",
+    "type": "internet"
+  },
+  {
+    "name": "Domain Name",
+    "type": "internet"
+  },
+  {
+    "name": "Hosting",
+    "type": "internet"
+  },
+  {
+    "name": "DNS",
+    "type": "internet"
+  },
+  {
+    "name": "Browsers",
+    "type": "internet"
+  },
+  {
+    "name": "HTML",
+    "type": "html"
+  },
+  {
+    "name": "HTML Basics",
+    "type": "html"
+  },
+  {
+    "name": "Semantic HTML",
+    "type": "html"
+  },
+  {
+    "name": "Forms and Validations",
+    "type": "html"
+  },
+  {
+    "name": "Accessibility",
+    "type": "html"
+  },
+  {
+    "name": "Basics of SEO",
+    "type": "html"
+  },
+  {
+    "name": "CSS",
+    "type": "css"
+  },
+  {
+    "name": "CSS Basics",
+    "type": "css"
+  },
+  {
+    "name": "Making layouts",
+    "type": "css"
+  },
+  {
+    "name": "Responsive Web Design",
+    "type": "css"
+  },
+  {
+    "name": "JavaScript",
+    "type": "javascript"
+  },
+  {
+    "name": "DOM Manipulation",
+    "type": "javascript"
+  },
+  {
+    "name": "Fetch API",
+    "type": "javascript"
+  }
+]
